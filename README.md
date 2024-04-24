@@ -28,6 +28,4 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan ikuti langkah-langkah ini
 4. Push ke cabang (`git push origin fitur/fitur-baru`)
 5. Buat permintaan tarik (Pull Request)
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah [Nama Lisensi]. Lihat `LISENSI.md` untuk informasi lebih lanjut.
+non aktif selalu bertanya ketika menjalankan
